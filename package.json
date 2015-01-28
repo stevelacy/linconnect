@@ -1,4 +1,7 @@
 {
+  "name": "linconnect",
+  "description" :"node interface for LinConnect",
+  "author": "Steve Lacy <me@slacy.me> (http://slacy.me)",
   "dependencies": {
     "body-parser": "^1.10.2",
     "express": "^4.11.1"
